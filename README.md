@@ -21,7 +21,7 @@ composer require moemengaballah/msegat
 
 Laravel uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider.
 
-### Laravel without auto-discovery:
+### Laravel version less than 5.5:
 
 If you don't use auto-discovery, add the ServiceProvider to the providers array in config/app.php
 
