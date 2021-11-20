@@ -14,7 +14,6 @@ Its goal is to remove the complexity.
 
 ## Installation
 
-Require this package with composer. It is recommended to only require the package for development.
 
 ```shell
 composer require moemengaballah/msegat
