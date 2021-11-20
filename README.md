@@ -54,7 +54,8 @@ MSEGAT_API_KEY=
 ## Example
 
 ```php
-//Msegat::sendMessage('numbers', 'MSG'); // numbers => array or int 
+// numbers (required, string, international format without zeros separated by comma, example: "966xxxxxxxxx" or "966xxxxxxxxx,966xxxxxxxxx,966xxxxxxxxx")
+//Msegat::sendMessage('numbers', 'MSG'); 
 use Msegat;
 
 $msg = Msegat::sendMessage('966xxxxxxxxx', 'رمز التحقق: 1234');
