@@ -1,0 +1,29 @@
+{
+    "name": "moemengaballah/msegat",
+    "description": "This is a Laravel package for msegat. Its goal is to remove the complexity",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MoemenGaballah\\Msegat\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MoemenGaballah\\Msegat\\MsegatServiceProvider"
+            ],
+            "aliases": {
+                "Msegat": "MoemenGaballah\\Msegat\\Msegat"
+            }
+        }
+    },
+    "authors": [
+        {
+            "name": "moemengaballa",
+            "email": "moemengaballa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
