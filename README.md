@@ -1,8 +1,8 @@
-# laravel-msegat package
+# package laravel-msegat
 This is a Laravel package for msegat. Its goal is to remove the complexity
 
 
-## Laravel Msegat Package
+## Package Laravel Msegat 
 ![Unit Tests](https://github.com/barryvdh/laravel-debugbar/workflows/Unit%20Tests/badge.svg)
 [![Packagist License](https://poser.pugx.org/barryvdh/laravel-debugbar/license.png)](http://choosealicense.com/licenses/mit/)
 [![Latest Stable Version](https://poser.pugx.org/barryvdh/laravel-debugbar/version.png)](https://packagist.org/packages/moemengaballah/msegat)
