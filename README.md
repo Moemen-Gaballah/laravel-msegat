@@ -51,7 +51,7 @@ MSEGAT_USER_SENDER=
 MSEGAT_API_KEY=
 ```
 
-## Example
+## Example OTP
 
 ```php
 // numbers (required, string, international format without zeros separated by comma, example: "966xxxxxxxxx" or "966xxxxxxxxx,966xxxxxxxxx,966xxxxxxxxx")
